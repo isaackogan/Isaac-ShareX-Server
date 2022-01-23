@@ -1,0 +1,5 @@
+src/node_modules
+src/config.real.json
+src/package-lock.json
+.idea
+node_modules

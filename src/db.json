@@ -1,0 +1,79 @@
+{
+  "files": [
+    {
+      "path": "/",
+      "ip": "Unknown",
+      "views": 1
+    },
+    {
+      "path": "/assets/css/pterodactyl.css",
+      "ip": "Unknown",
+      "views": 3
+    },
+    {
+      "path": "/gallery",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/sample.png",
+      "ip": "Unknown",
+      "views": 1
+    }
+  ],
+  "bans": [],
+  "visitors": [
+    {
+      "date": "2022-01-23T02:40:42.687Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-01-23T02:40:42.724Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T02:40:44.542Z",
+      "ip": "127.0.0.1",
+      "path": "/gallery"
+    },
+    {
+      "date": "2022-01-23T02:40:44.565Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T02:40:45.347Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T02:40:45.350Z",
+      "ip": "127.0.0.1",
+      "path": "/sample.png"
+    },
+    {
+      "date": "2022-01-23T02:40:46.356Z",
+      "ip": "127.0.0.1",
+      "path": "/sample.png"
+    },
+    {
+      "date": "2022-01-23T02:40:48.994Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-01-23T02:40:49.011Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    }
+  ],
+  "trafficTotal": [
+    {
+      "month": "1/2022",
+      "total": 5
+    }
+  ],
+  "passwordUploads": []
+}

@@ -3,12 +3,12 @@
     {
       "path": "/",
       "ip": "Unknown",
-      "views": 283
+      "views": 285
     },
     {
       "path": "/assets/css/pterodactyl.css",
       "ip": "Unknown",
-      "views": 578
+      "views": 596
     },
     {
       "path": "/assets/images/upload-icon.ico",
@@ -25,7 +25,7 @@
     {
       "path": "/short",
       "ip": "Unknown",
-      "views": 135
+      "views": 138
     },
     {
       "path": "/gallery",
@@ -98,6 +98,31 @@
     {
       "path": "/yf8",
       "ip": "127.0.0.1",
+      "views": 0
+    },
+    {
+      "path": "/api/test",
+      "ip": "Unknown",
+      "views": 13
+    },
+    {
+      "path": "/api/assets/images/404-icon.ico",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/api/assets/css/styles.min.css",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/api/assets/css/pterodactyl.css",
+      "ip": "Unknown",
+      "views": 0
+    },
+    {
+      "path": "/assets/images/404-icon.ico",
+      "ip": "Unknown",
       "views": 0
     }
   ],
@@ -202,12 +227,217 @@
       "date": "2022-01-23T05:20:34.929Z",
       "ip": "127.0.0.1",
       "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:54:00.154Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-01-23T05:54:00.178Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:54:02.126Z",
+      "ip": "127.0.0.1",
+      "path": "/api/test"
+    },
+    {
+      "date": "2022-01-23T05:54:02.224Z",
+      "ip": "127.0.0.1",
+      "path": "/api/assets/images/404-icon.ico"
+    },
+    {
+      "date": "2022-01-23T05:54:05.174Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:54:10.230Z",
+      "ip": "127.0.0.1",
+      "path": "/api/test"
+    },
+    {
+      "date": "2022-01-23T05:54:10.247Z",
+      "ip": "127.0.0.1",
+      "path": "/api/assets/css/styles.min.css"
+    },
+    {
+      "date": "2022-01-23T05:54:10.251Z",
+      "ip": "127.0.0.1",
+      "path": "/api/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:54:18.041Z",
+      "ip": "127.0.0.1",
+      "path": "/api/test"
+    },
+    {
+      "date": "2022-01-23T05:54:18.061Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:54:18.084Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/404-icon.ico"
+    },
+    {
+      "date": "2022-01-23T05:54:18.740Z",
+      "ip": "127.0.0.1",
+      "path": "/api/test"
+    },
+    {
+      "date": "2022-01-23T05:54:18.760Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:54:19.122Z",
+      "ip": "127.0.0.1",
+      "path": "/api/test"
+    },
+    {
+      "date": "2022-01-23T05:54:19.141Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:54:55.294Z",
+      "ip": "127.0.0.1",
+      "path": "/api/test"
+    },
+    {
+      "date": "2022-01-23T05:54:55.315Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:54:56.070Z",
+      "ip": "127.0.0.1",
+      "path": "/api/test"
+    },
+    {
+      "date": "2022-01-23T05:54:56.088Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:54:56.591Z",
+      "ip": "127.0.0.1",
+      "path": "/api/test"
+    },
+    {
+      "date": "2022-01-23T05:54:56.610Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:55:03.603Z",
+      "ip": "127.0.0.1",
+      "path": "/api/test"
+    },
+    {
+      "date": "2022-01-23T05:55:03.622Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:55:04.050Z",
+      "ip": "127.0.0.1",
+      "path": "/api/test"
+    },
+    {
+      "date": "2022-01-23T05:55:04.068Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:55:04.441Z",
+      "ip": "127.0.0.1",
+      "path": "/api/test"
+    },
+    {
+      "date": "2022-01-23T05:55:04.460Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:56:20.013Z",
+      "ip": "127.0.0.1",
+      "path": "/api/test"
+    },
+    {
+      "date": "2022-01-23T05:56:20.032Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:56:21.791Z",
+      "ip": "127.0.0.1",
+      "path": "/api/test"
+    },
+    {
+      "date": "2022-01-23T05:56:21.810Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:56:22.255Z",
+      "ip": "127.0.0.1",
+      "path": "/api/test"
+    },
+    {
+      "date": "2022-01-23T05:56:22.273Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:58:19.414Z",
+      "ip": "127.0.0.1",
+      "path": "/short"
+    },
+    {
+      "date": "2022-01-23T05:58:19.438Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:59:18.720Z",
+      "ip": "127.0.0.1",
+      "path": "/short"
+    },
+    {
+      "date": "2022-01-23T05:59:18.757Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:59:19.346Z",
+      "ip": "127.0.0.1",
+      "path": "/short"
+    },
+    {
+      "date": "2022-01-23T05:59:19.364Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:59:19.612Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-01-23T05:59:19.633Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
     }
   ],
   "trafficTotal": [
     {
       "month": "1/2022",
-      "total": 1425
+      "total": 1461
     }
   ],
   "passwordUploads": [

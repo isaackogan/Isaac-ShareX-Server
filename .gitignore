@@ -3,3 +3,8 @@ src/config.real.json
 src/package-lock.json
 .idea
 node_modules
+
+*.png
+*.jpg
+
+src/server/uploads/*.html

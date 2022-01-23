@@ -2,6 +2,10 @@ const fs = require('fs-extra');
 
 async function get(req, res) {
     res.setHeader('Content-Type', 'text/html');
+    res.setHeader(
+        "Content-Security-Policy",
+        "default-src 'self'; script-src 'self' 'unsafe-inline' *.googleapis.com cdn.jsdelivr.net *.cloudflare.com; base-uri 'self'; block-all-mixed-content; font-src 'self' https: data:; frame-ancestors 'self'; img-src 'self' data:; object-src 'none'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; upgrade-insecure-requests;"
+    );
     res.render('short', { public: this.c.public });
     res.end();
 }
@@ -17,7 +21,7 @@ async function post(req, res) {
     const protocol = this.protocol();
     const fileName = this.randomToken(this.c.shortUrlLength);
     if (req.body.URL === '' || req.body.URL === null) {
-        res.redirect('/short?error=No-URL-Input');
+        res.redirect('/short?error=No URL Input');
         return res.end();
     }
     const stream = fs.createWriteStream(`${__dirname}/../uploads/${fileName}.html`);

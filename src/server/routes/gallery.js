@@ -2,12 +2,18 @@ const fs = require('fs-extra');
 
 async function get(_req, res) {
     res.setHeader('Content-Type', 'text/html');
+    res.setHeader(
+        "Content-Security-Policy",
+        "default-src 'self'; script-src 'self' 'unsafe-inline' *.googleapis.com cdn.jsdelivr.net *.cloudflare.com; base-uri 'self'; block-all-mixed-content; font-src 'self' https: data:; frame-ancestors 'self'; img-src 'self' data:; object-src 'none'; script-src-attr 'none'; style-src 'self' https: 'unsafe-inline'; upgrade-insecure-requests;"
+    );
+
     res.render('galleryLogin');
     res.end();
 }
 async function post(req, res) {
     const userIP = req.headers['x-forwarded-for'] || req.connection.remoteAddress || req.socket.remoteAddress || req.connection.socket.remoteAddress;
     res.setHeader('Content-Type', 'text/html');
+
     const protocol = this.protocol();
     var password = this.c.admin.key;
     // Compatibility with old config
@@ -45,7 +51,7 @@ async function post(req, res) {
                   return res.end();
             }
         })
-      }); 
-      
+      });
+
 }
 module.exports = { get, post };

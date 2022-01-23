@@ -24,23 +24,47 @@
 <div id="afterBox">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script>
-        $(document).ready(function(){
+
+        $(document).ready(function() {
             if(window.location.search){
-                if(window.location.search.toString().includes("error")){
-                    var error = window.location.search.toString().replace(/(\?error=)+/g, '').replace(/[\_]/g, ' ');
-                    document.getElementById("afterBox").innerHTML = '<div class="alert alert-info" role="alert" id="save-sucess" style="height: 50px;padding-bottom: 6px;margin-bottom: 0px;"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button><i class="icon ion-checkmark-round mr-1"></i><span style="color: #0C6D38 !important;">'+ error + '<br></span></div>';
-                }else{
-                    var result = window.location.search.toString().replace(/(\?success=)+/g, '').replace(/[\_]/g, ' ');
-                    document.getElementById("afterBox").innerHTML = '<div class="alert alert-info" role="alert" id="save-sucess" style="background-color: #B4F7D2!important;border: 1px solid #0C6D38;height: 50px;padding-bottom: 6px;margin-bottom: 0px;"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button><i class="icon ion-checkmark-round mr-1"></i><span style="color: #0C6D38 !important;">'+ result + '<br></span></div>';
+                if(window.location.search.toString().includes("error")) {
+                    let error = window.location.search.toString().replace(/(\?error=)+/g, '').replace(/[\_]/g, ' ');
+                    document.getElementById("afterBox").innerHTML = (`
+                        <div class="alert alert-info alertError" role="alert" id="save-sucess">
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close" style="color: whitesmoke; font-weight: 500; opacity: 1; line-height: 0.7;">
+                                <span aria-hidden="true">×</span>
+                            </button>
+                            <i class="icon ion-close-circled mr-1"></i>
+                            <span>${decodeURI(error)}</span>
+                        </div>
+                    `);
+
+                } else {
+                    let result = window.location.search.toString().replace(/(\?success=)+/g, '').replace(/[\_]/g, ' ');
+                    document.getElementById("afterBox").innerHTML = (`
+                        <div class="alert alert-info alertSuccess" role="alert" id="save-sucess">
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close" style="color: whitesmoke; font-weight: 500; opacity: 1; line-height: 0.7;">
+                                <span aria-hidden="true">×</span>
+                            </button>
+                            <i class="icon ion-checkmark-round mr-1"></i>
+                            <span>
+                                Success!
+                                <a class="copyLink" target="_blank" style="text-decoration: none" href="${result}">${result}</a>
+                                was copied to your clipboard!
+                            </span>
+                        </div>
+                    `);
+                    navigator.clipboard.writeText(result);
                 }
             }
         });
+
     </script>
 </div>
 
 <!-- Header Bar -->
 <div class="headerBar">
-    <a class="title" href="/" style="text-decoration: none;">Isaac Kogan (File Hosting)</a>
+    <a class="title" href="" style="text-decoration: none;">Isaac Kogan (File Hosting)</a>
 </div>
 
 <!-- Nav Bar -->

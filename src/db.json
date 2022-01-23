@@ -3,68 +3,203 @@
     {
       "path": "/",
       "ip": "Unknown",
-      "views": 1
+      "views": 283
     },
     {
       "path": "/assets/css/pterodactyl.css",
       "ip": "Unknown",
-      "views": 3
+      "views": 578
+    },
+    {
+      "path": "/assets/images/upload-icon.ico",
+      "ip": "Unknown",
+      "views": 177
+    },
+    {
+      "path": "/46Yk",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../passwordUploads/46Yk.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/short",
+      "ip": "Unknown",
+      "views": 135
     },
     {
       "path": "/gallery",
       "ip": "Unknown",
-      "views": 0
+      "views": 136
+    },
+    {
+      "path": "/assets/images/gallery-icon.ico",
+      "ip": "Unknown",
+      "views": 49
+    },
+    {
+      "path": "/unGE",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/unGE.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/unGE.jpg",
+      "ip": "Unknown",
+      "views": 4
     },
     {
       "path": "/sample.png",
       "ip": "Unknown",
-      "views": 1
+      "views": 5
+    },
+    {
+      "path": "/XJp",
+      "ip": "127.0.0.1",
+      "views": 0
+    },
+    {
+      "path": "/BcJ",
+      "ip": "127.0.0.1",
+      "views": 0
+    },
+    {
+      "path": "/assets/images/shortener-icon.ico",
+      "ip": "Unknown",
+      "views": 58
+    },
+    {
+      "path": "/DYDB.webp",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/DYDB.webp",
+      "showCase": false
+    },
+    {
+      "path": "/ZBoP",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/ZBoP.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/lgJo",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../passwordUploads/lgJo.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/XaO",
+      "ip": "127.0.0.1",
+      "views": 0
+    },
+    {
+      "path": "/yf8",
+      "ip": "127.0.0.1",
+      "views": 0
     }
   ],
   "bans": [],
   "visitors": [
     {
-      "date": "2022-01-23T02:40:42.687Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-01-23T02:40:42.724Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-01-23T02:40:44.542Z",
+      "date": "2022-01-23T05:20:18.957Z",
       "ip": "127.0.0.1",
       "path": "/gallery"
     },
     {
-      "date": "2022-01-23T02:40:44.565Z",
+      "date": "2022-01-23T05:20:18.981Z",
       "ip": "127.0.0.1",
       "path": "/assets/css/pterodactyl.css"
     },
     {
-      "date": "2022-01-23T02:40:45.347Z",
+      "date": "2022-01-23T05:20:19.323Z",
+      "ip": "127.0.0.1",
+      "path": "/gallery"
+    },
+    {
+      "date": "2022-01-23T05:20:19.350Z",
       "ip": "127.0.0.1",
       "path": "/assets/css/pterodactyl.css"
     },
     {
-      "date": "2022-01-23T02:40:45.350Z",
+      "date": "2022-01-23T05:20:19.662Z",
       "ip": "127.0.0.1",
-      "path": "/sample.png"
+      "path": "/gallery"
     },
     {
-      "date": "2022-01-23T02:40:46.356Z",
+      "date": "2022-01-23T05:20:19.686Z",
       "ip": "127.0.0.1",
-      "path": "/sample.png"
+      "path": "/assets/css/pterodactyl.css"
     },
     {
-      "date": "2022-01-23T02:40:48.994Z",
+      "date": "2022-01-23T05:20:19.946Z",
+      "ip": "127.0.0.1",
+      "path": "/gallery"
+    },
+    {
+      "date": "2022-01-23T05:20:19.968Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:20:20.315Z",
+      "ip": "127.0.0.1",
+      "path": "/gallery"
+    },
+    {
+      "date": "2022-01-23T05:20:20.340Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:20:20.524Z",
+      "ip": "127.0.0.1",
+      "path": "/gallery"
+    },
+    {
+      "date": "2022-01-23T05:20:20.550Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:20:33.290Z",
       "ip": "127.0.0.1",
       "path": "/"
     },
     {
-      "date": "2022-01-23T02:40:49.011Z",
+      "date": "2022-01-23T05:20:33.314Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:20:33.765Z",
+      "ip": "127.0.0.1",
+      "path": "/short"
+    },
+    {
+      "date": "2022-01-23T05:20:33.792Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:20:34.543Z",
+      "ip": "127.0.0.1",
+      "path": "/short"
+    },
+    {
+      "date": "2022-01-23T05:20:34.568Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-01-23T05:20:34.902Z",
+      "ip": "127.0.0.1",
+      "path": "/gallery"
+    },
+    {
+      "date": "2022-01-23T05:20:34.929Z",
       "ip": "127.0.0.1",
       "path": "/assets/css/pterodactyl.css"
     }
@@ -72,8 +207,17 @@
   "trafficTotal": [
     {
       "month": "1/2022",
-      "total": 5
+      "total": 1425
     }
   ],
-  "passwordUploads": []
+  "passwordUploads": [
+    {
+      "fileName": "46Yk.jpg",
+      "key": "abc"
+    },
+    {
+      "fileName": "lgJo.jpg",
+      "key": "s"
+    }
+  ]
 }

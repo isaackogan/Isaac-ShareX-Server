@@ -2,9 +2,19 @@
 const formidable = require('formidable');
 const fs = require('fs-extra');
 
+const getHostname = (url) => {
+    try {
+        return new URL(url).hostname;
+    } catch (ex) {
+        return null;
+    }
+}
+
 async function shortener(req, res) {
+
     const form = new formidable.IncomingForm();
     // eslint-disable-next-line no-unused-vars
+
     form.parse(req, (_err, fields, _files) => {
         const userIP = req.headers['x-forwarded-for'] || req.connection.remoteAddress || req.socket.remoteAddress || req.connection.socket.remoteAddress;
         const protocol = this.protocol();
@@ -24,9 +34,27 @@ async function shortener(req, res) {
             res.send('NOT_A_VALID_URL');
             return res.end();
         }
+
         const stream = fs.createWriteStream(`${__dirname}/../uploads/${fileName}.html`);
         stream.once('open', () => {
-            stream.write(`<meta http-equiv="refresh" content="0; url=${url}" />`);
+            const hostname = getHostname(url);
+            let description;
+
+            if (hostname != null) {
+                description = `Clicking this URL will automatically redirect you to a page on the "${hostname}" external site in your browser.`
+            } else {
+                description = "Clicking this URL will automatically redirect you to a page on an external site in your browser."
+            }
+
+            let embed = `
+                   <meta property="og:site_name" content="Redirect URL">
+                   <meta property="og:title" content="Isaac Kogan's CDN"/>
+                   <meta property="og:url"/>
+                   <meta property="og:image" content="/assets/images/shortener-icon.ico"/>
+                   <meta property="og:description" content='${description}'/>
+            `
+
+            stream.write(embed + `<meta http-equiv="refresh" content="0; url=${url}" />`);
             stream.end();
             if (this.monitorChannel !== null) this.bot.createMessage(this.monitorChannel, `\`\`\`MARKDOWN\n[NEW][SHORT URL]\n[URL](${url})\n[NEW](${req.headers.host}/${fileName})\n[IP](${userIP})\n\`\`\``);
             this.log.verbose(`New Short URL: ${protocol}://${req.headers.host}/${fileName} | IP: ${userIP}`);

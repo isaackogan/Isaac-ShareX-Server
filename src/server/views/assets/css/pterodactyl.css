@@ -158,15 +158,17 @@ input:-webkit-autofill:focus {
 
 .drag-area {
     cursor: pointer;
-    border: 1px solid #606d7b;
-    border-radius: 0.3em;
+    border: 1px solid #606D7B;
     color: #cad1d8;
-    line-height: 500%;
     background-color: #515f6cbb;
     margin-bottom: 15px;
     height: 100px;
-
     transition-duration: 200ms;
+
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
 
 }
 

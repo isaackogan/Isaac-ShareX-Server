@@ -3,17 +3,17 @@
     {
       "path": "/",
       "ip": "Unknown",
-      "views": 642
+      "views": 746
     },
     {
       "path": "/assets/css/pterodactyl.css",
       "ip": "Unknown",
-      "views": 977
+      "views": 1092
     },
     {
       "path": "/assets/images/upload-icon.ico",
       "ip": "Unknown",
-      "views": 517
+      "views": 609
     },
     {
       "path": "/46Yk",
@@ -25,17 +25,17 @@
     {
       "path": "/short",
       "ip": "Unknown",
-      "views": 152
+      "views": 155
     },
     {
       "path": "/gallery",
       "ip": "Unknown",
-      "views": 136
+      "views": 138
     },
     {
       "path": "/assets/images/gallery-icon.ico",
       "ip": "Unknown",
-      "views": 49
+      "views": 50
     },
     {
       "path": "/unGE",
@@ -313,487 +313,52 @@
   "bans": [],
   "visitors": [
     {
-      "date": "2022-02-13T07:16:16.290Z",
+      "date": "2022-02-13T20:27:49.014Z",
       "ip": "127.0.0.1",
       "path": "/assets/images/upload-icon.ico"
     },
     {
-      "date": "2022-02-13T07:16:23.349Z",
+      "date": "2022-02-13T20:28:01.336Z",
       "ip": "127.0.0.1",
       "path": "/"
     },
     {
-      "date": "2022-02-13T07:16:23.375Z",
+      "date": "2022-02-13T20:28:01.354Z",
       "ip": "127.0.0.1",
       "path": "/assets/css/pterodactyl.css"
     },
     {
-      "date": "2022-02-13T07:16:23.398Z",
+      "date": "2022-02-13T20:28:01.388Z",
       "ip": "127.0.0.1",
       "path": "/assets/images/upload-icon.ico"
     },
     {
-      "date": "2022-02-13T07:16:28.508Z",
+      "date": "2022-02-13T20:28:07.792Z",
       "ip": "127.0.0.1",
       "path": "/"
     },
     {
-      "date": "2022-02-13T07:16:28.523Z",
+      "date": "2022-02-13T20:28:07.809Z",
       "ip": "127.0.0.1",
       "path": "/assets/css/pterodactyl.css"
     },
     {
-      "date": "2022-02-13T07:16:28.546Z",
+      "date": "2022-02-13T20:28:07.831Z",
       "ip": "127.0.0.1",
       "path": "/assets/images/upload-icon.ico"
     },
     {
-      "date": "2022-02-13T07:16:32.987Z",
+      "date": "2022-02-13T20:29:02.917Z",
       "ip": "127.0.0.1",
       "path": "/"
     },
     {
-      "date": "2022-02-13T07:16:33.005Z",
+      "date": "2022-02-13T20:29:02.937Z",
       "ip": "127.0.0.1",
       "path": "/assets/css/pterodactyl.css"
     },
     {
-      "date": "2022-02-13T07:16:33.027Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:17:29.706Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:17:31.036Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:17:31.065Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:17:31.118Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:17:54.083Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:17:54.101Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:17:54.157Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:18:07.569Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:18:07.588Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:18:07.632Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:18:53.204Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:18:53.231Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:18:53.288Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:19:05.807Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:19:05.828Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:19:05.881Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:20:53.754Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:20:53.780Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:20:53.823Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:22:58.978Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:22:59.008Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:22:59.051Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:23:08.275Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:23:08.295Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:23:08.358Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:23:25.793Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:23:25.814Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:23:25.875Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:23:35.781Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:23:35.798Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:23:35.872Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:23:38.157Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:23:38.176Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:23:38.246Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:23:42.341Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:23:42.363Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:23:42.432Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:23:44.254Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:23:44.273Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:23:44.340Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:23:48.276Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:23:48.295Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:23:48.354Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:24:59.474Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:24:59.518Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:24:59.613Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:25:26.676Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:25:26.696Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:25:26.772Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:26:59.658Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:26:59.687Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:26:59.738Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:27:38.304Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:27:38.324Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:27:38.376Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:27:39.852Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:27:39.871Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:27:39.921Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:27:50.791Z",
-      "ip": "127.0.0.1",
-      "path": "/1Rne"
-    },
-    {
-      "date": "2022-02-13T07:27:50.825Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:29:31.410Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:29:31.429Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:29:31.454Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:33:06.418Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:33:06.437Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:33:06.477Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:34:34.537Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:34:34.558Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:34:34.585Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:34:39.054Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:34:40.624Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:34:40.651Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:34:40.716Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:34:41.267Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:34:41.286Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:34:41.343Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:34:42.245Z",
-      "ip": "127.0.0.1",
-      "path": "/short"
-    },
-    {
-      "date": "2022-02-13T07:34:42.267Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:34:42.319Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/shortener-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:34:42.676Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:34:42.695Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:36:38.657Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:36:38.677Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:36:38.743Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/images/upload-icon.ico"
-    },
-    {
-      "date": "2022-02-13T07:36:47.122Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-02-13T07:36:47.140Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-02-13T07:36:47.194Z",
+      "date": "2022-02-13T20:29:02.959Z",
       "ip": "127.0.0.1",
       "path": "/assets/images/upload-icon.ico"
     }
@@ -805,7 +370,7 @@
     },
     {
       "month": "2/2022",
-      "total": 1058
+      "total": 1375
     }
   ],
   "passwordUploads": [

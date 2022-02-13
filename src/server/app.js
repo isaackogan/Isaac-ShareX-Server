@@ -302,7 +302,7 @@ class ShareXAPI {
         if (this.c.secure) {
             return 'https';
         }
-        return 'https';
+        return 'http';
     }
 }
 

@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Actor">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.2/dist/jquery.fancybox.min.css">
-    <link rel="stylesheet" href="assets/css/pterodactyl.css">
+    <link rel="stylesheet" href="assets/css/pterodactyl.css?id=4">
 
     <style>
 
@@ -110,24 +110,121 @@
 
 <!-- Login Button -->
 <div class="loginMenu">
-    <form action="/api/files" method="post" enctype="multipart/form-data" name="fdataForm" style="width: 80%;">
+    <div style="width: 80%;">
 
+        <!-- Header -->
         <div>
             <h1 class="menuTitle">Upload File</h1>
             <i class="fa fa-upload iconPhoto"></i>
         </div>
 
+        <!-- Password & Resource Password -->
         <div class="form-group"><input class="form-control textBox" type="password" name="password" placeholder="Server Password" id="password"></div>
         <div class="form-group"><input class="form-control textBox" type="password" name="pupload" placeholder="Resource Password" id="pupload"></div>
-        <div class="form-group"><label class="form-control textBox chooseFile" for="fdataUploader">Select File</label></div>
 
-        <div class="form-group">
-            <input class="chooseFile " type="file" id="fdataUploader" name="fdataUploader" required/>
+        <!-- File Upload -->
+        <label id="drag-area" class="form-control drag-area form-group" for="fdataUploader">Drop or Choose File</label>
+        <div class="form-group"><input type="file" id="fdataUploader" name="fdataUploader" required/></div>
+        <!-- Submit -->
+        <div class="form-group"><button id="upload-button" class="uploadButton btn btn-primary btn-block" type="submit">Upload</button></div>
 
-        </div>
-        <div class="form-group"><button class="uploadButton btn btn-primary btn-block" type="submit" style="">Upload</button></div>
-    </form>
+    </div>
 </div>
+
+<script>
+    let cachedFile;
+    let dragArea = $("#drag-area")
+
+    /*
+    Drag & Drop
+     */
+    dragArea.on("dragover", (event) => event.originalEvent.preventDefault())
+        .on("drop", (event) => {
+            event = event.originalEvent;
+            event.preventDefault();
+
+            // Read the file
+            cachedFile = event.dataTransfer.files[0];
+            dragArea.get(0).textContent = cachedFile.name;
+            notMissingFile();
+
+        });
+
+    /*
+    Manual Upload
+     */
+    $("#fdataUploader").on("change", (event) => {
+        event.preventDefault();
+
+        // File API not supported
+        if (!window.File || !window.FileReader || !window.FileList || !window.Blob) {
+            alert('The File APIs are not fully supported in this browser.');
+            return;
+        }
+
+        // No File
+        if (!event.target.files || !event.target.files[0]) return;
+
+        // Read the file
+        cachedFile = event.target.files[0];
+        dragArea.get(0).textContent = cachedFile.name;
+        notMissingFile();
+
+    });
+
+    function missingFile() {
+        let dragDomElement = dragArea.get(0);
+        dragDomElement.style.borderColor = "#c01a1a"
+        dragDomElement.style.borderWidth = "2px";
+        dragDomElement.style.color = "#e82d2d";
+        dragDomElement.style.fontWeight = "bold";
+    }
+
+    function notMissingFile() {
+        let dragDomElement = dragArea.get(0);
+        dragDomElement.style.borderColor = ""
+        dragDomElement.style.borderWidth = "";
+        dragDomElement.style.color = "";
+        dragDomElement.style.fontWeight = "";
+    }
+
+    function clearFile() {
+        cachedFile = null;
+        let dragDomElement = dragArea.get(0);
+        dragDomElement.textContent = "Drop or Choose File";
+    }
+
+    /*
+    Submit Upload
+     */
+    $("#upload-button").on("click", (event) => {
+        let password = $("#password").val(), pupload = $("#pupload").val();
+
+        if (!cachedFile) {
+            missingFile()
+            return;
+        }
+
+        let formData = new FormData();
+
+        formData.append("password", password);
+        formData.append("pupload", pupload);
+        formData.append("fdataUploader", cachedFile)
+
+        let request = new XMLHttpRequest();
+        request.open("POST", "/api/files");
+        request.send(formData);
+
+        request.onreadystatechange = () => {
+            if (request.readyState !== XMLHttpRequest.DONE) return;
+            if (request.status === 200) window.location.href = request.responseURL;
+            else clearFile();
+        }
+
+    });
+
+
+</script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"></script>

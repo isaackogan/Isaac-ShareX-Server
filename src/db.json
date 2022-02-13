@@ -3,17 +3,17 @@
     {
       "path": "/",
       "ip": "Unknown",
-      "views": 291
+      "views": 642
     },
     {
       "path": "/assets/css/pterodactyl.css",
       "ip": "Unknown",
-      "views": 614
+      "views": 977
     },
     {
       "path": "/assets/images/upload-icon.ico",
       "ip": "Unknown",
-      "views": 178
+      "views": 517
     },
     {
       "path": "/46Yk",
@@ -25,7 +25,7 @@
     {
       "path": "/short",
       "ip": "Unknown",
-      "views": 151
+      "views": 152
     },
     {
       "path": "/gallery",
@@ -67,7 +67,7 @@
     {
       "path": "/assets/images/shortener-icon.ico",
       "ip": "Unknown",
-      "views": 58
+      "views": 59
     },
     {
       "path": "/DYDB.webp",
@@ -154,260 +154,658 @@
       "path": "/ydr",
       "ip": "127.0.0.1",
       "views": 0
+    },
+    {
+      "path": "/sKzQ",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/sKzQ.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/N4vP",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/N4vP.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/O3bL",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/O3bL.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/3VtP",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/3VtP.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/nuim",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/nuim.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/XNy0",
+      "ip": "127.0.0.1",
+      "views": 1,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/XNy0.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/aIlu",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/aIlu.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/b8Oc",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/b8Oc.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/6z4A",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/6z4A.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/v0HY",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/v0HY.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/a1iz",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/a1iz.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/BB0Q",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/BB0Q.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/7JMx",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/7JMx.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/ObPi",
+      "ip": "127.0.0.1",
+      "views": 1,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/ObPi.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/XqRH",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/XqRH.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/RL3K",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/RL3K.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/tl7w",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/tl7w.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/3hcB",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/3hcB.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/1Rne",
+      "ip": "127.0.0.1",
+      "views": 1,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../passwordUploads/1Rne.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/msTF",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/msTF.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/uEoq",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/uEoq.jpg",
+      "showCase": false
+    },
+    {
+      "path": "/WcdL",
+      "ip": "127.0.0.1",
+      "views": 0,
+      "original": "C:\\Users\\jeanm\\WebstormProjects\\ShareX-Upload-Server\\src\\server\\routes/../uploads/WcdL.jpg",
+      "showCase": false
     }
   ],
   "bans": [],
   "visitors": [
     {
-      "date": "2022-01-27T14:46:41.303Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-01-27T14:47:02.377Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T14:47:49.745Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T14:48:50.563Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T14:49:13.534Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T14:51:21.368Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T14:52:39.003Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T14:52:50.582Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T14:52:57.831Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T14:57:13.598Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T14:57:26.048Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T14:58:32.101Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T14:58:45.151Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T14:59:23.525Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T14:59:53.740Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T15:00:08.527Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T15:02:02.666Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T15:02:12.034Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T15:06:35.787Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T15:07:41.695Z",
-      "ip": "127.0.0.1",
-      "path": "/Ebl"
-    },
-    {
-      "date": "2022-01-27T15:09:40.568Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T15:09:50.429Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T15:12:00.196Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T15:12:13.314Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T15:12:15.410Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T15:12:17.879Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T15:12:33.104Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T15:12:43.067Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T15:12:46.724Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T15:12:54.564Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T15:12:55.917Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T15:12:59.188Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T15:21:11.104Z",
-      "ip": "127.0.0.1",
-      "path": "/Hzm"
-    },
-    {
-      "date": "2022-01-27T15:21:18.207Z",
-      "ip": "127.0.0.1",
-      "path": "/"
-    },
-    {
-      "date": "2022-01-27T15:21:18.253Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-01-27T15:21:18.361Z",
+      "date": "2022-02-13T07:16:16.290Z",
       "ip": "127.0.0.1",
       "path": "/assets/images/upload-icon.ico"
     },
     {
-      "date": "2022-01-27T15:21:19.171Z",
-      "ip": "127.0.0.1",
-      "path": "/short"
-    },
-    {
-      "date": "2022-01-27T15:21:19.198Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-01-27T15:21:28.904Z",
-      "ip": "127.0.0.1",
-      "path": "/short"
-    },
-    {
-      "date": "2022-01-27T15:21:28.922Z",
-      "ip": "127.0.0.1",
-      "path": "/assets/css/pterodactyl.css"
-    },
-    {
-      "date": "2022-01-27T15:26:38.930Z",
+      "date": "2022-02-13T07:16:23.349Z",
       "ip": "127.0.0.1",
       "path": "/"
     },
     {
-      "date": "2022-01-27T15:26:38.954Z",
+      "date": "2022-02-13T07:16:23.375Z",
       "ip": "127.0.0.1",
       "path": "/assets/css/pterodactyl.css"
     },
     {
-      "date": "2022-01-27T15:26:40.935Z",
+      "date": "2022-02-13T07:16:23.398Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:16:28.508Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:16:28.523Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:16:28.546Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:16:32.987Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:16:33.005Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:16:33.027Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:17:29.706Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:17:31.036Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:17:31.065Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:17:31.118Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:17:54.083Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:17:54.101Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:17:54.157Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:18:07.569Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:18:07.588Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:18:07.632Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:18:53.204Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:18:53.231Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:18:53.288Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:19:05.807Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:19:05.828Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:19:05.881Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:20:53.754Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:20:53.780Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:20:53.823Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:22:58.978Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:22:59.008Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:22:59.051Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:23:08.275Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:23:08.295Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:23:08.358Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:23:25.793Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:23:25.814Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:23:25.875Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:23:35.781Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:23:35.798Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:23:35.872Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:23:38.157Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:23:38.176Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:23:38.246Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:23:42.341Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:23:42.363Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:23:42.432Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:23:44.254Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:23:44.273Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:23:44.340Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:23:48.276Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:23:48.295Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:23:48.354Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:24:59.474Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:24:59.518Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:24:59.613Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:25:26.676Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:25:26.696Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:25:26.772Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:26:59.658Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:26:59.687Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:26:59.738Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:27:38.304Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:27:38.324Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:27:38.376Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:27:39.852Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:27:39.871Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:27:39.921Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:27:50.791Z",
+      "ip": "127.0.0.1",
+      "path": "/1Rne"
+    },
+    {
+      "date": "2022-02-13T07:27:50.825Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:29:31.410Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:29:31.429Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:29:31.454Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:33:06.418Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:33:06.437Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:33:06.477Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:34:34.537Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:34:34.558Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:34:34.585Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:34:39.054Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:34:40.624Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:34:40.651Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:34:40.716Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:34:41.267Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:34:41.286Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:34:41.343Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:34:42.245Z",
       "ip": "127.0.0.1",
       "path": "/short"
     },
     {
-      "date": "2022-01-27T15:26:40.957Z",
+      "date": "2022-02-13T07:34:42.267Z",
       "ip": "127.0.0.1",
       "path": "/assets/css/pterodactyl.css"
     },
     {
-      "date": "2022-01-27T15:26:45.469Z",
+      "date": "2022-02-13T07:34:42.319Z",
       "ip": "127.0.0.1",
-      "path": "/short"
+      "path": "/assets/images/shortener-icon.ico"
     },
     {
-      "date": "2022-01-27T15:26:45.493Z",
+      "date": "2022-02-13T07:34:42.676Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:34:42.695Z",
       "ip": "127.0.0.1",
       "path": "/assets/css/pterodactyl.css"
     },
     {
-      "date": "2022-01-27T15:27:46.569Z",
+      "date": "2022-02-13T07:36:38.657Z",
       "ip": "127.0.0.1",
-      "path": "/short"
+      "path": "/"
     },
     {
-      "date": "2022-01-27T15:27:46.591Z",
+      "date": "2022-02-13T07:36:38.677Z",
       "ip": "127.0.0.1",
       "path": "/assets/css/pterodactyl.css"
     },
     {
-      "date": "2022-01-27T15:27:51.025Z",
+      "date": "2022-02-13T07:36:38.743Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
+    },
+    {
+      "date": "2022-02-13T07:36:47.122Z",
+      "ip": "127.0.0.1",
+      "path": "/"
+    },
+    {
+      "date": "2022-02-13T07:36:47.140Z",
       "ip": "127.0.0.1",
       "path": "/assets/css/pterodactyl.css"
+    },
+    {
+      "date": "2022-02-13T07:36:47.194Z",
+      "ip": "127.0.0.1",
+      "path": "/assets/images/upload-icon.ico"
     }
   ],
   "trafficTotal": [
     {
       "month": "1/2022",
       "total": 1549
+    },
+    {
+      "month": "2/2022",
+      "total": 1058
     }
   ],
   "passwordUploads": [
@@ -418,6 +816,10 @@
     {
       "fileName": "lgJo.jpg",
       "key": "s"
+    },
+    {
+      "fileName": "1Rne.jpg",
+      "key": "sammyisaac2"
     }
   ]
 }

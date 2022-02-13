@@ -3,7 +3,7 @@
   "domain": "*",
   "puploadKeyGenLength": 64,
   "public": false,
-  "maxUploadSize": 0,
+  "maxUploadSize": 200,
   "markdown": true,
   "port": 6969,
   "secure": false,

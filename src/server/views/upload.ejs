@@ -217,8 +217,16 @@
 
         request.onreadystatechange = () => {
             if (request.readyState !== XMLHttpRequest.DONE) return;
-            if (request.status === 200) window.location.href = request.responseURL;
-            else clearFile();
+            if (request.status === 200) {
+                if (request.responseURL) {
+                    window.location.href = request.responseURL;
+                    return;
+                }
+
+            }
+
+            clearFile();
+
         }
 
     });
